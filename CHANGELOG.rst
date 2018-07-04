@@ -16,6 +16,11 @@ Major Changes
 
 - NEW ``eos_capabilities`` module 
 
+Minor Changes
+-------------
+
+- Fix dependency entry to properly call ansible-network.network-engine
+
 
 Minor Changes
 -------------
